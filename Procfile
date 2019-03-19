@@ -1,1 +1,1 @@
-worker node dm.js
+worker node bot.js
